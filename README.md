@@ -6,7 +6,7 @@ This is an example implementation using the
 ## Installation
 
 ```
-git clone https://github.com/e-x-a-m-p-l-e-s/urls_for_humans_example.git
+git clone https://github.com/e-x-a-m-p-l-e-s/urls_for_humans.git
 cd urls_for_humans_example
 bundle
 rake db:migrate
